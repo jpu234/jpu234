@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+😄 Pronouns: he/him
+📫 How to reach me: jpu234@uky.edu
+🌱 I’m currently learning how to use GitHub and becoming the manager of a team.
 <!--
 **jpu234/jpu234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
