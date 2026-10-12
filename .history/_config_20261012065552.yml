@@ -1,0 +1,19 @@
+title: James A. Purvis
+description: Endpoint Operations Manager | Endpoint Management | Automation | Governance
+theme: 
+
+url: https://jpu234.github.io
+
+aux_links:
+  GitHub:
+    - https://github.com/jpu234
+
+nav_enabled: true
+search_enabled: true
+
+color_scheme: dark
+
+footer_content: "© James A. Purvis"
+
+back_to_top: true
+back_to_top_text: "Back to top"
